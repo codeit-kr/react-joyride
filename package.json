@@ -42,7 +42,7 @@
     "deep-diff": "^1.0.2",
     "deepmerge": "^4.3.1",
     "is-lite": "^1.2.0",
-    "react-floater": "^0.7.6",
+    "react-floater": "0.7.6",
     "react-innertext": "^1.1.5",
     "react-is": "^16.13.1",
     "scroll": "^3.0.1",
